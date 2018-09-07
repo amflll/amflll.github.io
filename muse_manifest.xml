@@ -1,0 +1,246 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ameliafong.com" resolutions="1x" timestamp="1536081285555">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_interior.css" crc="477883067" ref="index"/>
+    <file name="master_main.css" crc="3855900395" ref="snap-packs:compost:hats:index:su-iou:stories:work:su-recruitment:dfa-outreach:seil:su-annual-report:su-voter-engagement:eccd:about"/>
+    <file name="snap-packs.css" crc="3758097109" ref="snap-packs"/>
+    <file name="compost.css" crc="68482206" ref="compost"/>
+    <file name="hats.css" crc="172817508" ref="hats"/>
+    <file name="index.css" crc="4092849331" ref="index"/>
+    <file name="su-iou.css" crc="4199262253" ref="su-iou"/>
+    <file name="stories.css" crc="3773181428" ref="stories"/>
+    <file name="work.css" crc="528302118" ref="work"/>
+    <file name="su-recruitment.css" crc="3910228794" ref="su-recruitment"/>
+    <file name="dfa-outreach.css" crc="470663673" ref="dfa-outreach"/>
+    <file name="seil.css" crc="44548358" ref="seil"/>
+    <file name="su-annual-report.css" crc="3984462914" ref="su-annual-report"/>
+    <file name="su-voter-engagement.css" crc="3772248642" ref="su-voter-engagement"/>
+    <file name="eccd.css" crc="224821753" ref="eccd"/>
+    <file name="about.css" crc="4185385421" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="museutils.js" crc="340535759" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="webpro.js" crc="4059564322" ref="index:hats:snap-packs:compost:dfa-outreach:su-recruitment:su-voter-engagement:su-iou:su-annual-report:eccd:seil"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:hats:snap-packs:compost:dfa-outreach:su-recruitment:su-voter-engagement:su-iou:su-annual-report:eccd:seil"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:hats:snap-packs:compost:dfa-outreach:su-recruitment:su-voter-engagement:su-iou:su-annual-report:eccd:seil"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:hats:snap-packs:compost:dfa-outreach:su-recruitment:su-voter-engagement:su-iou:su-annual-report:eccd:seil"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+    <file name="require.js" crc="7928878" ref="index:about:hats:snap-packs:compost:dfa-outreach:work:su-recruitment:su-voter-engagement:su-iou:su-annual-report:stories:eccd:seil"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="161331179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:hats:snap-packs:compost:dfa-outreach:su-recruitment:su-voter-engagement:su-iou:su-annual-report:eccd:seil"/>
+    <file name="2 2.jpg" crc="3792528710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="193480095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="318301634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3046-7.png" crc="4044676029" ref="index"/>
+    <file name="u5562-5.png" crc="274930263" ref="index"/>
+    <file name="u5589-10.png" crc="406480210" ref="index"/>
+    <file name="u9102-4.png" crc="124474085" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:hats:snap-packs:compost:dfa-outreach:su-recruitment:su-voter-engagement:su-iou:su-annual-report:eccd:seil"/>
+    <file name="profile.png" crc="4113435234" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4050755878" seo="true" ref="hats">
+      <caption webpage="hats" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3808028953" seo="true" ref="hats">
+      <caption webpage="hats" alt=""/>
+    </file>
+    <file name="32.jpg" crc="217042649" seo="true" ref="hats">
+      <caption webpage="hats" alt=""/>
+    </file>
+    <file name="42.jpg" crc="4049378815" seo="true" ref="hats">
+      <caption webpage="hats" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3828484451" seo="true" ref="hats">
+      <caption webpage="hats" alt=""/>
+    </file>
+    <file name="6.jpg" crc="442688554" seo="true" ref="hats">
+      <caption webpage="hats" alt=""/>
+    </file>
+    <file name="13.jpg" crc="4213974226" seo="true" ref="snap-packs">
+      <caption webpage="snap-packs" alt=""/>
+    </file>
+    <file name="22.jpg" crc="401712214" seo="true" ref="snap-packs">
+      <caption webpage="snap-packs" alt=""/>
+    </file>
+    <file name="33.jpg" crc="38538399" seo="true" ref="snap-packs">
+      <caption webpage="snap-packs" alt=""/>
+    </file>
+    <file name="43.jpg" crc="219742561" seo="true" ref="snap-packs">
+      <caption webpage="snap-packs" alt=""/>
+    </file>
+    <file name="52.jpg" crc="4258733204" seo="true" ref="snap-packs">
+      <caption webpage="snap-packs" alt=""/>
+    </file>
+    <file name="img_7025.jpg" crc="4100953070" seo="true" ref="compost">
+      <caption webpage="compost" alt=""/>
+    </file>
+    <file name="34.jpg" crc="223650385" seo="true" ref="compost">
+      <caption webpage="compost" alt=""/>
+    </file>
+    <file name="process.jpg" crc="248005265" seo="true" ref="compost">
+      <caption webpage="compost" alt=""/>
+    </file>
+    <file name="storyboard.jpg" crc="3950354619" seo="true" ref="compost">
+      <caption webpage="compost" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4186699673" seo="true" ref="dfa-outreach">
+      <caption webpage="dfa-outreach" alt=""/>
+    </file>
+    <file name="23.jpg" crc="4287612225" seo="true" ref="dfa-outreach">
+      <caption webpage="dfa-outreach" alt=""/>
+    </file>
+    <file name="img_5682.jpg" crc="4208356754" seo="true" ref="dfa-outreach">
+      <caption webpage="dfa-outreach" alt=""/>
+    </file>
+    <file name="5313x216.jpg" crc="3849910567" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="1313x175.jpg" crc="139792215" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="122.jpg" crc="237534386" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="2313x209.jpg" crc="3836847237" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="cover.jpg" crc="81963296" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="3-crop-u9597.jpg" crc="4183914274" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="24.jpg" crc="175808469" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="17155989_10154134804746012_7223365087496431674_n-crop-u9573.jpg" crc="156137118" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="untitled-1-01 copy.jpg" crc="4197286623" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="15.jpg" crc="311182745" seo="true" ref="su-recruitment">
+      <caption webpage="su-recruitment" alt=""/>
+    </file>
+    <file name="44.jpg" crc="3796245282" seo="true" ref="su-recruitment">
+      <caption webpage="su-recruitment" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4074728877" seo="true" ref="su-recruitment">
+      <caption webpage="su-recruitment" alt=""/>
+    </file>
+    <file name="screen shot 2017-03-20 at 101347 pm.jpg" crc="4289099949" seo="true" ref="su-recruitment">
+      <caption webpage="su-recruitment" alt=""/>
+    </file>
+    <file name="8.jpg" crc="3849935312" seo="true" ref="su-recruitment">
+      <caption webpage="su-recruitment" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3885657371" seo="true" ref="su-recruitment">
+      <caption webpage="su-recruitment" alt=""/>
+    </file>
+    <file name="17158956_10154136279196012_7978897776266515640_o-crop-u6401.jpg" crc="4115525940" seo="true" ref="su-voter-engagement">
+      <caption webpage="su-voter-engagement" alt=""/>
+    </file>
+    <file name="17192292_10154133947336012_8175409128913772601_o.jpg" crc="169032118" seo="true" ref="su-voter-engagement">
+      <caption webpage="su-voter-engagement" alt=""/>
+    </file>
+    <file name="tabletent.jpg" crc="70105516" seo="true" ref="su-voter-engagement">
+      <caption webpage="su-voter-engagement" alt=""/>
+    </file>
+    <file name="screen shot 2017-03-21 at 14429 am.jpg" crc="422821418" seo="true" ref="su-voter-engagement">
+      <caption webpage="su-voter-engagement" alt=""/>
+    </file>
+    <file name="sulogo2016 (2).png" crc="508708448" seo="true" ref="su-voter-engagement:su-iou:su-annual-report">
+      <caption webpage="su-voter-engagement" alt=""/>
+      <caption webpage="su-iou" alt=""/>
+      <caption webpage="su-annual-report" alt=""/>
+    </file>
+    <file name="910x610pngb065a6b7dd0d47b3a1e1d478ae768619.jpg" crc="4261928273" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="draft.jpg" crc="286939077" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="img_3390.jpg" crc="178548806" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="screen shot 2017-03-20 at 111218 pm.jpg" crc="4147589128" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="910x610pngb065a6b7dd0d47b3a1e1d478ae76861960x50.jpg" crc="4126152220" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="draft-crop-u8092.jpg" crc="217415194" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="img_339068x45.jpg" crc="3944300086" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="screen shot 2017-03-20 at 111218 pm-crop-u6680.jpg" crc="454968239" seo="true" ref="su-iou">
+      <caption webpage="su-iou" alt=""/>
+    </file>
+    <file name="spread 0.jpg" crc="3798408257" seo="true" ref="su-annual-report">
+      <caption webpage="su-annual-report" alt=""/>
+    </file>
+    <file name="spread 1.jpg" crc="3839562474" seo="true" ref="su-annual-report">
+      <caption webpage="su-annual-report" alt=""/>
+    </file>
+    <file name="spread 2.jpg" crc="4113047334" seo="true" ref="su-annual-report">
+      <caption webpage="su-annual-report" alt=""/>
+    </file>
+    <file name="16.jpg" crc="190084039" seo="true" ref="eccd">
+      <caption webpage="eccd" alt=""/>
+    </file>
+    <file name="25.jpg" crc="3802721526" seo="true" ref="eccd">
+      <caption webpage="eccd" alt=""/>
+    </file>
+    <file name="35.jpg" crc="253849206" seo="true" ref="eccd">
+      <caption webpage="eccd" alt=""/>
+    </file>
+    <file name="45.jpg" crc="3827627639" seo="true" ref="eccd">
+      <caption webpage="eccd" alt=""/>
+    </file>
+    <file name="53.jpg" crc="495978058" seo="true" ref="eccd">
+      <caption webpage="eccd" alt=""/>
+    </file>
+    <file name="17.jpg" crc="63902685" seo="true" ref="seil">
+      <caption webpage="seil" alt=""/>
+    </file>
+    <file name="26.jpg" crc="3781760383" seo="true" ref="seil">
+      <caption webpage="seil" alt=""/>
+    </file>
+    <file name="36.jpg" crc="360012102" seo="true" ref="seil">
+      <caption webpage="seil" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="172176344" seo="true" mt="1536081259602" redirect="true"/>
+  <file name="about.html" crc="4102525273" seo="true" mt="1536081226325" redirect="true"/>
+  <file name="hats.html" crc="376450362" seo="true" mt="1536081233340" redirect="true"/>
+  <file name="snap-packs.html" crc="4200265680" seo="true" mt="1536081237751" redirect="true"/>
+  <file name="compost.html" crc="429087251" seo="true" mt="1536081244359" redirect="true"/>
+  <file name="dfa-outreach.html" crc="3903299557" seo="true" mt="1536081243004" redirect="true"/>
+  <file name="work.html" crc="170193454" seo="true" mt="1536081229816" redirect="true"/>
+  <file name="su-recruitment.html" crc="3772942240" seo="true" mt="1536081241605" redirect="true"/>
+  <file name="su-voter-engagement.html" crc="434839137" seo="true" mt="1536073364575" redirect="true"/>
+  <file name="su-iou.html" crc="4235355131" seo="true" mt="1536081240066" redirect="true"/>
+  <file name="su-annual-report.html" crc="496656397" seo="true" mt="1536073364575" redirect="true"/>
+  <file name="stories.html" crc="252416231" seo="true" mt="1536073364575" redirect="true"/>
+  <file name="eccd.html" crc="411541722" seo="true" mt="1536073508206" redirect="true"/>
+  <file name="seil.html" crc="456763473" seo="true" mt="1536075060082" redirect="true"/>
+</manifest>
